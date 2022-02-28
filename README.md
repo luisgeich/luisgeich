@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @luisgeich
+- 👋 Hi, I’m @luisgeich :brazil:	
 - 👀 I’m interested in programming & socialism
 - 🌱 I’m currently learning Node, React JS, React Native
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on Experience Sampling Method applications 
+
+<br>
+
+- 👋 Olá, eu sou @luisgeich :brazil:	
+- 👀 Meus interesses são programação e socialismo
+- 🌱 Atualmente estou aprendendo Node, React JS, React Native
+- 💞️ Busco trabalhar em projetos relacioados à aplicação do Experience Sampling Method 
 
 <!---
 luisgeich/luisgeich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
