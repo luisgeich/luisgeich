@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @luisgeich :brazil:	
+- 👋 Hi, I’m @luisgeich
 - 🌱 I’m currently learning Node, React JS, React Native
 - 💞️ I’m looking to collaborate on Experience Sampling Method applications 
 
 <br>
 
-- 👋 Olá, eu sou @luisgeich :brazil:	
+- 👋 Olá, eu sou @luisgeich
 - 🌱 Atualmente estou aprendendo Node, React JS, React Native
 - 💞️ Busco trabalhar em projetos relacioados à aplicação do Experience Sampling Method 
 
